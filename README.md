@@ -7,3 +7,7 @@ The following networks tools are installed :
 - curl 
 - wget 
 - netcat
+- tcpdump
+- netstat
+- lsof
+- traceroute
