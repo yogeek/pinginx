@@ -9,4 +9,5 @@ RUN apt-get update && \
 	lsof \
 	inetutils-traceroute \
 	net-tools \
-	tcpdump
+	tcpdump \
+    dnsutils
