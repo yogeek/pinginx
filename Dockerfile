@@ -10,4 +10,5 @@ RUN apt-get update && \
 	inetutils-traceroute \
 	net-tools \
 	tcpdump \
-    dnsutils
+    dnsutils \
+	whois
